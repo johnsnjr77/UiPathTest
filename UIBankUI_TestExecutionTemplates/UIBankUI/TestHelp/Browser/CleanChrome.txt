@@ -1,0 +1,14 @@
+Param
+(
+[Parameter(Mandatory=$true)] [string]$Path
+)
+
+If(!(test-path $Path))
+{
+    echo "Creating Chrome Profile at $Path"
+    New-Item -ItemType Directory -Force -Path $Path
+}
+else{
+    echo "Deleting Chrome Profile at $Path"
+    Remove-Item $Path\* -Recurse -Force
+}

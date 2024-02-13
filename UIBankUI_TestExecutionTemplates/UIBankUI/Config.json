@@ -1,0 +1,25 @@
+{
+  "Settings": [],
+  "Alpha": [
+    {
+      "Name": "BaseUrl",
+      "Value": "https://uibank.uipath.com/",
+      "Description": "Base URL to test"
+    }
+  ],
+  "Staging": [
+    {
+      "Name": "BaseUrl",
+      "Value": "https://uibank.uipath.com/",
+      "Description": "Base URL to test"
+    }
+  ],
+  "Constants": [
+    {
+      "Name": "ChromePath",
+      "Value": "C:\\UiPathChrome",
+      "Description": "Path to Chrome Profile Folder"
+    }
+  ],
+  "Assets": []
+}

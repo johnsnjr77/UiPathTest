@@ -1,0 +1,15 @@
+﻿{
+  "Id": "5PNccM19dEG3tx_W_9VPVw",
+  "Reference": "ibbisoNgjE2QQWGQYgBMpQ/5PNccM19dEG3tx_W_9VPVw",
+  "ParentRef": "ibbisoNgjE2QQWGQYgBMpQ/njd4XPiVa0i1VNdRahZQIQ",
+  "Name": "LoanApplication",
+  "Type": "Screen",
+  "Created": "2022-05-09T12:18:19.2365838Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-09T12:18:57.1783077Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

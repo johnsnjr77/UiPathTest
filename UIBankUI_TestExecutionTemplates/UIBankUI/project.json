@@ -1,0 +1,89 @@
+{
+  "name": "UiBankTestAutomation",
+  "projectId": "78ba0746-b1fa-4449-b4fe-4c6fb0fa6a10",
+  "description": "Template project for test suite",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "[23.10.2]",
+    "UiPath.Testing.Activities": "[23.10.0]",
+    "UiPath.UIAutomation.Activities": "[23.10.2]",
+    "UiPath.WebAPI.Activities": "[1.18.0]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "21.10.0.0",
+  "projectVersion": "1.0.122314739",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "879a296e-0749-4886-a965-ea2c36d204f3",
+        "testCaseType": "TestCase",
+        "fileName": "ApplyForLoanAPI.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "1a6cc6cf-b5fc-4d16-be8a-245f9192e36f",
+        "dataVariationFilePath": ".variations\\Data_Sheet1.json",
+        "executionTemplatePath": ".templates\\ExecutionTemplateUIBankLoan.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "ApplyForLoanUI.xaml"
+      },
+      {
+        "templateType": "ExecutionTemplate",
+        "fileName": ".templates\\ExecutionTemplate.xaml"
+      },
+      {
+        "templateType": "ExecutionTemplate",
+        "fileName": ".templates\\ExecutionTemplateUIBankLoan.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "c3efc8c9-bde9-461a-acc6-e196e4e93ff8",
+        "dataVariationFilePath": ".variations\\Data_Sheet1.json",
+        "executionTemplatePath": ".templates\\ExecutionTemplateUIBankLoan.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCaseUiBank.xaml"
+      }
+    ],
+    "modernBehavior": true,
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "9E0OOiSFjkqCFBMwW7caFw",
+  "Reference": "ibbisoNgjE2QQWGQYgBMpQ/9E0OOiSFjkqCFBMwW7caFw",
+  "ParentRef": "ibbisoNgjE2QQWGQYgBMpQ/e9mOxKbQtUq4zkh0LVGG0g",
+  "Name": "ApplyForLoan",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-05-09T12:17:48.3658073Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-09T12:18:12.1310735Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

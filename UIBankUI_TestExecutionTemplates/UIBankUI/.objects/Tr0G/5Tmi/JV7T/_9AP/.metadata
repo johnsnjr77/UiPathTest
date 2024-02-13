@@ -1,0 +1,14 @@
+﻿{
+  "Id": "_9AP_ZxRlUCknXsG9dDD8g",
+  "Reference": "ibbisoNgjE2QQWGQYgBMpQ/_9AP_ZxRlUCknXsG9dDD8g",
+  "ParentRef": "ibbisoNgjE2QQWGQYgBMpQ/JV7TY5rxiEmLld5PW1ZVYg",
+  "Name": "ProductButton",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-03-07T16:30:10.3211154Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-07T16:30:10.3211154Z"
+}

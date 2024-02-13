@@ -1,0 +1,13 @@
+﻿{
+  "Id": "kfrezqs4vEmuUUZy3zSM7Q",
+  "Reference": "ibbisoNgjE2QQWGQYgBMpQ/kfrezqs4vEmuUUZy3zSM7Q",
+  "ParentRef": "ibbisoNgjE2QQWGQYgBMpQ/GT3CHUn0l0KcYivz63PU7w",
+  "Name": "Result",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Created": "2022-05-09T12:28:07.2946895Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-09T12:28:07.2946895Z"
+}

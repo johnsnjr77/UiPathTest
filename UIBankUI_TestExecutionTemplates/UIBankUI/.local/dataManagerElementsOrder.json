@@ -1,0 +1,119 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ApplyForLoanAPI.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "httpResult&Sequence_1",
+        "resultObj&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "Amount",
+        "Term",
+        "Income",
+        "Age",
+        "Email"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ApplyForLoanUI.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "Browser",
+        "Config",
+        "Amount",
+        "Term",
+        "Income",
+        "Age",
+        "Email"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": ".templates/ExecutionTemplate.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": ".local/generated/Generated - ApplyForLoanUI.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "Browser",
+        "Config",
+        "Amount",
+        "Term",
+        "Income",
+        "Age",
+        "Email",
+        "__invokedWorkflowName__"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ApplyForLoanChrome.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Result&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "Amount",
+        "Term",
+        "Income",
+        "Age",
+        "Email"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": ".templates/TestExecutionTemplate.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Browser&Sequence_4",
+        "Config&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": ".templates/ExecutionTemplateUIBankLoan.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "TestCaseUiBank.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "Amount",
+        "Term",
+        "Income",
+        "Age",
+        "Email"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

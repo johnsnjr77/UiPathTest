@@ -1,0 +1,13 @@
+﻿{
+  "Id": "sYaGIabjLUigqqbFc9HvRA",
+  "Reference": "ibbisoNgjE2QQWGQYgBMpQ/sYaGIabjLUigqqbFc9HvRA",
+  "ParentRef": "ibbisoNgjE2QQWGQYgBMpQ/5PNccM19dEG3tx_W_9VPVw",
+  "Name": "Current Yearly",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-05-09T12:21:12.1887718Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-09T12:21:12.1887718Z"
+}
